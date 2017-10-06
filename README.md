@@ -1,2 +1,17 @@
 # ORMS
  Online Restaurant Management System
+ # Maket Analysis
+ 
+ Many restaurants still use traditional method, paper and pen, for their operation. However, the old method would yield of waste a large amount of paper for orders and recipes. Another issue is very difficult for record maintenance. The manager is responsible to keep all information saved and organized. The manager also need to collect information about work’s hours of employees. These tasks are very difficult to be done by paper and requires a lot of time and attention from the managers. In addition, another issue would relate to waiters. After an order is sent to kitchen, the waiters would take time go back and forth to the kitchen checkup whether the food ready or not. 
+
+However, these issues could be solved by ORMS. The app provides a touch screen service so that the restaurant staffs can quickly and efficiently login and complete the desired tasks. Following is the list of four different kinds of employee come with specific advantage of system for each position:
+
+1.	A host:  After cheerfully greeting guests, the host must decide which table for them. After login to the system, the host can see the status of all tables based on he/she or someone else updates the diagram by a click of a button. The tables are colored according to status: red is occupied, green is available, and yellow is dirty. 
+
+2.	Waiters: waiters can login the system to take order or to help customers pay bills. The waiters can select a table to take order. When a table is selected, the waiters can choose one of several categories such as: advertiser, salads, soups, fried rice, noodles, or vegetarian. For example, if a waiter wants to add “chicken fried rice” to the selected table, he just need to select fried rice category on the main page and then find the chicken fried rice. Then the waiter send the order to kitchen by clicking a submit button. The system lets the waiter return to home page so that he can perform another task or logout. 
+
+
+3.	Cooks (chefs and kitchen staffs): when waiters send orders to the kitchen, chefs and kitchens staff should start preparing the food. The system helps them keep track how much time need for each item or which item should start cooking first. The chefs should handle multiple orders simultaneously and precise timing might be hard to manage. Therefore, the system notify which items might need more time than other by color them with Red, so the chefs might start cooking them as soon as possible. When the chefs have finished preparing an item, they notify to the waiters by clicking on the check box that the item is ready for customer. The system update and the waiters can view which item is ready for delivery to customers.
+
+4.	Managers: managers have administrative power for all employee’s profile. The manager has priority to create new account and grant it to new employee. For example, a new employee is only able to sign in the system with user name and password that the manager provides. The manager is also able to restrict or destroy employee’s account. For example, the system can prevent a new waiter to take order by set their priority for viewing only. The system also helps the manager manage other aspects of restaurant operations. The managers can view which ingredients might run out soon and need to order, or can analyze hour or daily sell so that the manager can come up flexible schedule for employees.  
+
